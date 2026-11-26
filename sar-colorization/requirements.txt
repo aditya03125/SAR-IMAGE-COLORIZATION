@@ -1,0 +1,13 @@
+numpy
+pillow
+scipy
+pandas
+rasterio
+opencv-python
+scikit-image
+matplotlib
+torchmetrics
+lpips
+gradio
+earthengine-api
+# torch + torchvision: do NOT pip install blindly - use the command from https://pytorch.org/get-started/locally/
